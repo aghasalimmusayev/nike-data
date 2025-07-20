@@ -17,12 +17,7 @@
                 },
                 {
                     "title": "Shop New",
-                    "items": [
-                        "Men",
-                        "Women",
-                        "Kids",
-                        "Shop All"
-                    ]
+                    "items": ["Men", "Women", "Kids", "Shop All"]
                 },
                 {
                     "title": "Trending",
@@ -43,13 +38,7 @@
             "altCat": [
                 {
                     "title": "New & Featured",
-                    "items": [
-                        "New Arrivals",
-                        "Best Seller",
-                        "Latest Drops",
-                        "Summer Shop",
-                        "Shop All Sale"
-                    ]
+                    "items": ["New Arrivals", "Best Seller", "Latest Drops", "Summer Shop", "Shop All Sale"]
                 },
                 {
                     "title": "Shoes",
@@ -81,14 +70,7 @@
                 },
                 {
                     "title": "Accessories",
-                    "items": [
-                        "Bags & Backpacks",
-                        "Belts",
-                        "Hats & Headwear",
-                        "Socks",
-                        "Sunglasses",
-                        "Underwear"
-                    ]
+                    "items": ["Bags & Backpacks", "Belts", "Hats & Headwear", "Socks", "Sunglasses", "Underwear"]
                 }
             ]
         },
@@ -109,13 +91,7 @@
                 },
                 {
                     "title": "Shop by Color",
-                    "items": [
-                        "Bold Blues",
-                        "Peachy Picks",
-                        "Purple Pops",
-                        "Neon Edit",
-                        "Timeless Neutrals"
-                    ]
+                    "items": ["Bold Blues", "Peachy Picks", "Purple Pops", "Neon Edit", "Timeless Neutrals"]
                 },
                 {
                     "title": "Shoes",
@@ -149,13 +125,7 @@
                 },
                 {
                     "title": "Accessories",
-                    "items": [
-                        "Bags & Backpacks",
-                        "Belts",
-                        "Hats & Headwear",
-                        "Socks",
-                        "Sunglasses"
-                    ]
+                    "items": ["Bags & Backpacks", "Belts", "Hats & Headwear", "Socks", "Sunglasses"]
                 }
             ]
         },
@@ -210,23 +180,11 @@
                 },
                 {
                     "title": "Accessories",
-                    "items": [
-                        "Bags & Backpacks",
-                        "Belts",
-                        "Hats & Headwear",
-                        "Socks",
-                        "Sunglasses"
-                    ]
+                    "items": ["Bags & Backpacks", "Belts", "Hats & Headwear", "Socks", "Sunglasses"]
                 },
                 {
                     "title": "Shop by Sport",
-                    "items": [
-                        "Basketball",
-                        "Gymnastics",
-                        "Football",
-                        "Running",
-                        "Soccer"
-                    ]
+                    "items": ["Basketball", "Gymnastics", "Football", "Running", "Soccer"]
                 }
             ]
         },
@@ -246,49 +204,23 @@
                 },
                 {
                     "title": "Sport",
-                    "items": [
-                        "Jordan Basketball",
-                        "Jordan Golf",
-                        "Jordan Cleats"
-                    ]
+                    "items": ["Jordan Basketball", "Jordan Golf", "Jordan Cleats"]
                 },
                 {
                     "title": "Men",
-                    "items": [
-                        "Shop All",
-                        "Shoes",
-                        "AJ1",
-                        "Clothing"
-                    ]
+                    "items": ["Shop All", "Shoes", "AJ1", "Clothing"]
                 },
                 {
                     "title": "Women",
-                    "items": [
-                        "Shop All",
-                        "Shoes",
-                        "AJ1",
-                        "Clothing"
-                    ]
+                    "items": ["Shop All", "Shoes", "AJ1", "Clothing"]
                 },
                 {
                     "title": "Kids",
-                    "items": [
-                        "Shop All",
-                        "Shoes",
-                        "AJ1",
-                        "Clothing",
-                        "Big Kids",
-                        "Little Kids",
-                        "Baby & Toddler"
-                    ]
+                    "items": ["Shop All", "Shoes", "AJ1", "Clothing", "Big Kids", "Little Kids", "Baby & Toddler"]
                 },
                 {
                     "title": "Accessories",
-                    "items": [
-                        "Shop All",
-                        "Bags & Backpacks",
-                        "Hats & Headwear"
-                    ]
+                    "items": ["Shop All", "Bags & Backpacks", "Hats & Headwear"]
                 }
             ]
         },
@@ -298,16 +230,7 @@
             "altCat": [
                 {
                     "title": "Basketball",
-                    "items": [
-                        "Shoes",
-                        "Apparel",
-                        "Equipment",
-                        "Kobe",
-                        "Jordan",
-                        "NBA Gear",
-                        "WNBA Gear",
-                        "NCAA Gear"
-                    ]
+                    "items": ["Shoes", "Apparel", "Equipment", "Kobe", "Jordan", "NBA Gear", "WNBA Gear", "NCAA Gear"]
                 },
                 {
                     "title": "Running",
@@ -354,39 +277,26 @@
                 },
                 {
                     "title": "Training",
-                    "items": [
-                        "Shoes",
-                        "Socks",
-                        "Apparel",
-                        "Equipment"
-                    ]
+                    "items": ["Shoes", "Socks", "Apparel", "Equipment"]
                 },
                 {
                     "title": "Golf",
-                    "items": [
-                        "Shoes",
-                        "Apparel",
-                        "Equipment",
-                        "Jordan"
-                    ]
+                    "items": ["Shoes", "Apparel", "Equipment", "Jordan"]
                 }
             ]
         }
     ],
-    "MenShirts": [
+    "Products": [
         {
             "id": "7db3bdd1-bd4c-44f8-9ef6-57c40ad6cf91",
             "title": "Blue & Black Check Shirt",
             "description": "The Blue & Black Check Shirt is a stylish and comfortable men's shirt featuring a classic check pattern. Made from high-quality fabric, it's suitable for both casual and semi-formal occasions.",
-            "category": "mens-shirts",
+            "category": "Men-Shirts",
             "price": 29.99,
             "discountPercentage": 15.35,
             "rating": 3.64,
             "stock": 38,
-            "tags": [
-                "clothing",
-                "men's shirts"
-            ],
+            "tags": ["clothing", "men's shirts"],
             "brand": "Fashion Trends",
             "sku": "MEN-FAS-BLU-083",
             "weight": 4,
@@ -441,15 +351,12 @@
             "id": "584ba6be-d9f3-46a8-abd3-ecfb702eb331",
             "title": "Gigabyte Aorus Men Tshirt",
             "description": "The Gigabyte Aorus Men Tshirt is a cool and casual shirt for gaming enthusiasts. With the Aorus logo and sleek design, it's perfect for expressing your gaming style.",
-            "category": "mens-shirts",
+            "category": "Men-Shirts",
             "price": 24.99,
             "discountPercentage": 0.94,
             "rating": 3.18,
             "stock": 90,
-            "tags": [
-                "clothing",
-                "men's t-shirts"
-            ],
+            "tags": ["clothing", "men's t-shirts"],
             "brand": "Gigabyte",
             "sku": "MEN-GIG-GIG-084",
             "weight": 4,
@@ -504,15 +411,12 @@
             "id": "174269fc-4389-4c38-aaaa-fc5c314a006d",
             "title": "Man Plaid Shirt",
             "description": "The Man Plaid Shirt is a timeless and versatile men's shirt with a classic plaid pattern. Its comfortable fit and casual style make it a wardrobe essential for various occasions.",
-            "category": "mens-shirts",
+            "category": "Men-Shirts",
             "price": 34.99,
             "discountPercentage": 19.5,
             "rating": 3.46,
             "stock": 82,
-            "tags": [
-                "clothing",
-                "men's shirts"
-            ],
+            "tags": ["clothing", "men's shirts"],
             "brand": "Classic Wear",
             "sku": "MEN-CLA-PLA-085",
             "weight": 3,
@@ -567,15 +471,12 @@
             "id": "43379a65-5991-4fe6-af5f-f2a339e823f6",
             "title": "Man Short Sleeve Shirt",
             "description": "The Man Short Sleeve Shirt is a breezy and stylish option for warm days. With a comfortable fit and short sleeves, it's perfect for a laid-back yet polished look.",
-            "category": "mens-shirts",
+            "category": "Men-Shirts",
             "price": 19.99,
             "discountPercentage": 6.83,
             "rating": 2.9,
             "stock": 2,
-            "tags": [
-                "clothing",
-                "men's shirts"
-            ],
+            "tags": ["clothing", "men's shirts"],
             "brand": "Casual Comfort",
             "sku": "MEN-CAS-SHO-086",
             "weight": 2,
@@ -630,15 +531,12 @@
             "id": "c1c3cdbc-3ac6-4dad-899a-f0cc78816461",
             "title": "Men Check Shirt",
             "description": "The Men Check Shirt is a classic and versatile shirt featuring a stylish check pattern. Suitable for various occasions, it adds a smart and polished touch to your wardrobe.",
-            "category": "mens-shirts",
+            "category": "Men-Shirts",
             "price": 27.99,
             "discountPercentage": 11.38,
             "rating": 2.72,
             "stock": 95,
-            "tags": [
-                "clothing",
-                "men's shirts"
-            ],
+            "tags": ["clothing", "men's shirts"],
             "brand": "Urban Chic",
             "sku": "MEN-URB-CHE-087",
             "weight": 10,
@@ -688,22 +586,17 @@
                 "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/4.webp"
             ],
             "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/thumbnail.webp"
-        }
-    ],
-    "MenShoes": [
+        },
         {
             "id": "c832a100-4832-4dcf-b1be-e83a8329e235",
             "title": "Nike Air Jordan 1 Red And Black",
             "description": "The Nike Air Jordan 1 in Red and Black is an iconic basketball sneaker known for its stylish design and high-performance features, making it a favorite among sneaker enthusiasts and athletes.",
-            "category": "mens-shoes",
+            "category": "Men-Shoes",
             "price": 149.99,
             "discountPercentage": 4.12,
             "rating": 4.77,
             "stock": 7,
-            "tags": [
-                "footwear",
-                "athletic shoes"
-            ],
+            "tags": ["footwear", "athletic shoes"],
             "brand": "Nike",
             "sku": "MEN-NIK-NIK-088",
             "weight": 3,
@@ -758,15 +651,12 @@
             "id": "4f6e6786-770a-4a62-b076-71b24a6f0d56",
             "title": "Nike Baseball Cleats",
             "description": "Nike Baseball Cleats are designed for maximum traction and performance on the baseball field. They provide stability and support for players during games and practices.",
-            "category": "mens-shoes",
+            "category": "Men-Shoes",
             "price": 79.99,
             "discountPercentage": 18.04,
             "rating": 3.88,
             "stock": 12,
-            "tags": [
-                "footwear",
-                "sports cleats"
-            ],
+            "tags": ["footwear", "sports cleats"],
             "brand": "Nike",
             "sku": "MEN-NIK-NIK-089",
             "weight": 9,
@@ -821,15 +711,12 @@
             "id": "49ae8716-4877-4b15-a5d1-f2228d270807",
             "title": "Puma Future Rider Trainers",
             "description": "The Puma Future Rider Trainers offer a blend of retro style and modern comfort. Perfect for casual wear, these trainers provide a fashionable and comfortable option for everyday use.",
-            "category": "mens-shoes",
+            "category": "Men-Shoes",
             "price": 89.99,
             "discountPercentage": 4.2,
             "rating": 4.9,
             "stock": 90,
-            "tags": [
-                "footwear",
-                "casual shoes"
-            ],
+            "tags": ["footwear", "casual shoes"],
             "brand": "Puma",
             "sku": "MEN-PUM-PUM-090",
             "weight": 6,
@@ -884,15 +771,12 @@
             "id": "ed09d8a6-1f96-4c11-bcd0-7d7fc3666b81",
             "title": "Sports Sneakers Off White & Red",
             "description": "The Sports Sneakers in Off White and Red combine style and functionality, making them a fashionable choice for sports enthusiasts. The red and off-white color combination adds a bold and energetic touch.",
-            "category": "mens-shoes",
+            "category": "Men-Shoes",
             "price": 119.99,
             "discountPercentage": 4.97,
             "rating": 4.77,
             "stock": 17,
-            "tags": [
-                "footwear",
-                "athletic shoes"
-            ],
+            "tags": ["footwear", "athletic shoes"],
             "brand": "Off White",
             "sku": "MEN-OFF-SPO-091",
             "weight": 7,
@@ -947,15 +831,12 @@
             "id": "311fa09d-59f0-45ae-816e-adede08e376a",
             "title": "Sports Sneakers Off White Red",
             "description": "Another variant of the Sports Sneakers in Off White Red, featuring a unique design. These sneakers offer style and comfort for casual occasions.",
-            "category": "mens-shoes",
+            "category": "Men-Shoes",
             "price": 109.99,
             "discountPercentage": 0.04,
             "rating": 4.69,
             "stock": 62,
-            "tags": [
-                "footwear",
-                "casual shoes"
-            ],
+            "tags": ["footwear", "casual shoes"],
             "brand": "Off White",
             "sku": "MEN-OFF-SPO-092",
             "weight": 9,
@@ -1005,22 +886,17 @@
                 "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/4.webp"
             ],
             "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/thumbnail.webp"
-        }
-    ],
-    "Sunglasses": [
+        },
         {
             "id": "fdd7ac6e-2bcd-460e-afcf-0e87d25768da",
             "title": "Black Sun Glasses",
             "description": "The Black Sun Glasses are a classic and stylish choice, featuring a sleek black frame and tinted lenses. They provide both UV protection and a fashionable look.",
-            "category": "sunglasses",
+            "category": "Sunglasses",
             "price": 29.99,
             "discountPercentage": 4.94,
             "rating": 4.41,
             "stock": 60,
-            "tags": [
-                "eyewear",
-                "sunglasses"
-            ],
+            "tags": ["eyewear", "sunglasses"],
             "brand": "Fashion Shades",
             "sku": "SUN-FAS-BLA-154",
             "weight": 1,
@@ -1074,15 +950,12 @@
             "id": "f1079c53-4f2a-4acc-bb51-10025104f4b8",
             "title": "Classic Sun Glasses",
             "description": "The Classic Sun Glasses offer a timeless design with a neutral frame and UV-protected lenses. These sunglasses are versatile and suitable for various occasions.",
-            "category": "sunglasses",
+            "category": "Sunglasses",
             "price": 24.99,
             "discountPercentage": 4.94,
             "rating": 3.86,
             "stock": 1,
-            "tags": [
-                "eyewear",
-                "sunglasses"
-            ],
+            "tags": ["eyewear", "sunglasses"],
             "brand": "Fashion Shades",
             "sku": "SUN-FAS-CLA-155",
             "weight": 8,
@@ -1136,15 +1009,12 @@
             "id": "401d8d06-a7f3-4715-8678-118299541450",
             "title": "Green and Black Glasses",
             "description": "The Green and Black Glasses feature a bold combination of green and black colors, adding a touch of vibrancy to your eyewear collection. They are both stylish and eye-catching.",
-            "category": "sunglasses",
+            "category": "Sunglasses",
             "price": 34.99,
             "discountPercentage": 1.01,
             "rating": 4.55,
             "stock": 24,
-            "tags": [
-                "eyewear",
-                "sunglasses"
-            ],
+            "tags": ["eyewear", "sunglasses"],
             "brand": "Fashion Shades",
             "sku": "SUN-FAS-GRE-156",
             "weight": 7,
@@ -1198,15 +1068,12 @@
             "id": "be294f10-7233-4808-acfc-4917479e5433",
             "title": "Party Glasses",
             "description": "The Party Glasses are designed to add flair to your party outfit. With unique shapes or colorful frames, they're perfect for adding a playful touch to your look during celebrations.",
-            "category": "sunglasses",
+            "category": "Sunglasses",
             "price": 19.99,
             "discountPercentage": 11.22,
             "rating": 2.79,
             "stock": 86,
-            "tags": [
-                "eyewear",
-                "party glasses"
-            ],
+            "tags": ["eyewear", "party glasses"],
             "brand": "Fashion Fun",
             "sku": "SUN-FAS-PAR-157",
             "weight": 9,
@@ -1260,15 +1127,12 @@
             "id": "64c13ccb-584a-4605-9348-4fd1c5de3221",
             "title": "Sunglasses",
             "description": "The Sunglasses offer a classic and simple design with a focus on functionality. These sunglasses provide essential UV protection while maintaining a timeless look.",
-            "category": "sunglasses",
+            "category": "Sunglasses",
             "price": 22.99,
             "discountPercentage": 1.51,
             "rating": 3.02,
             "stock": 27,
-            "tags": [
-                "eyewear",
-                "sunglasses"
-            ],
+            "tags": ["eyewear", "sunglasses"],
             "brand": "Fashion Shades",
             "sku": "SUN-FAS-SUN-158",
             "weight": 1,
@@ -1317,9 +1181,7 @@
                 "https://cdn.dummyjson.com/product-images/sunglasses/sunglasses/3.webp"
             ],
             "thumbnail": "https://cdn.dummyjson.com/product-images/sunglasses/sunglasses/thumbnail.webp"
-        }
-    ],
-    "WomanBag": [
+        },
         {
             "id": "d9887763-e354-4f93-8b86-f6e340eb30b8",
             "title": "Blue Women's Handbag",
@@ -1329,10 +1191,7 @@
             "discountPercentage": 17.88,
             "rating": 2.92,
             "stock": 76,
-            "tags": [
-                "fashion accessories",
-                "handbags"
-            ],
+            "tags": ["fashion accessories", "handbags"],
             "brand": "Fashionista",
             "sku": "WOM-FAS-BLU-172",
             "weight": 7,
@@ -1391,10 +1250,7 @@
             "discountPercentage": 3.87,
             "rating": 4.92,
             "stock": 99,
-            "tags": [
-                "fashion accessories",
-                "leather bags"
-            ],
+            "tags": ["fashion accessories", "leather bags"],
             "brand": "Heshe",
             "sku": "WOM-HES-HES-173",
             "weight": 3,
@@ -1453,10 +1309,7 @@
             "discountPercentage": 14.09,
             "rating": 2.71,
             "stock": 75,
-            "tags": [
-                "fashion accessories",
-                "designer bags"
-            ],
+            "tags": ["fashion accessories", "designer bags"],
             "brand": "Prada",
             "sku": "WOM-PRA-PRA-174",
             "weight": 4,
@@ -1515,10 +1368,7 @@
             "discountPercentage": 15.2,
             "rating": 3.36,
             "stock": 39,
-            "tags": [
-                "fashion accessories",
-                "backpacks"
-            ],
+            "tags": ["fashion accessories", "backpacks"],
             "brand": "Urban Chic",
             "sku": "WOM-URB-WHI-175",
             "weight": 7,
@@ -1577,10 +1427,7 @@
             "discountPercentage": 11.63,
             "rating": 2.89,
             "stock": 11,
-            "tags": [
-                "fashion accessories",
-                "handbags"
-            ],
+            "tags": ["fashion accessories", "handbags"],
             "brand": "Elegance Collection",
             "sku": "WOM-ELE-WOM-176",
             "weight": 6,
@@ -1629,9 +1476,7 @@
                 "https://cdn.dummyjson.com/product-images/womens-bags/women-handbag-black/3.webp"
             ],
             "thumbnail": "https://cdn.dummyjson.com/product-images/womens-bags/women-handbag-black/thumbnail.webp"
-        }
-    ],
-    "WomanDress": [
+        },
         {
             "id": "20ac3e80-d727-4d82-a0e3-8cef73926a2a",
             "title": "Black Women's Gown",
@@ -1641,10 +1486,7 @@
             "discountPercentage": 10.48,
             "rating": 3.64,
             "stock": 25,
-            "tags": [
-                "clothing",
-                "gowns"
-            ],
+            "tags": ["clothing", "gowns"],
             "sku": "WOM-BRD-BLA-177",
             "weight": 2,
             "dimensions": {
@@ -1703,11 +1545,7 @@
             "discountPercentage": 16.26,
             "rating": 3.05,
             "stock": 30,
-            "tags": [
-                "clothing",
-                "corsets",
-                "skirts"
-            ],
+            "tags": ["clothing", "corsets", "skirts"],
             "sku": "WOM-BRD-COR-178",
             "weight": 1,
             "dimensions": {
@@ -1766,11 +1604,7 @@
             "discountPercentage": 15.06,
             "rating": 4.52,
             "stock": 33,
-            "tags": [
-                "clothing",
-                "corsets",
-                "skirts"
-            ],
+            "tags": ["clothing", "corsets", "skirts"],
             "sku": "WOM-BRD-COR-179",
             "weight": 7,
             "dimensions": {
@@ -1829,10 +1663,7 @@
             "discountPercentage": 17.68,
             "rating": 4.88,
             "stock": 6,
-            "tags": [
-                "clothing",
-                "dresses"
-            ],
+            "tags": ["clothing", "dresses"],
             "sku": "WOM-BRD-DRE-180",
             "weight": 1,
             "dimensions": {
@@ -1891,10 +1722,7 @@
             "discountPercentage": 19.02,
             "rating": 4.48,
             "stock": 62,
-            "tags": [
-                "clothing",
-                "suits"
-            ],
+            "tags": ["clothing", "suits"],
             "sku": "WOM-BRD-MAR-181",
             "weight": 3,
             "dimensions": {
@@ -1943,9 +1771,7 @@
                 "https://cdn.dummyjson.com/product-images/womens-dresses/marni-red-&-black-suit/4.webp"
             ],
             "thumbnail": "https://cdn.dummyjson.com/product-images/womens-dresses/marni-red-&-black-suit/thumbnail.webp"
-        }
-    ],
-    "WomanShoes": [
+        },
         {
             "id": "1aeb69f0-f3d1-4bc9-a701-aeb9c6f5d307",
             "title": "Black & Brown Slipper",
@@ -1955,10 +1781,7 @@
             "discountPercentage": 3.33,
             "rating": 2.53,
             "stock": 3,
-            "tags": [
-                "footwear",
-                "slippers"
-            ],
+            "tags": ["footwear", "slippers"],
             "brand": "Comfort Trends",
             "sku": "WOM-COM-BLA-185",
             "weight": 5,
@@ -2018,10 +1841,7 @@
             "discountPercentage": 3.19,
             "rating": 4.92,
             "stock": 93,
-            "tags": [
-                "footwear",
-                "heel shoes"
-            ],
+            "tags": ["footwear", "heel shoes"],
             "brand": "Calvin Klein",
             "sku": "WOM-CAL-CAL-186",
             "weight": 6,
@@ -2081,10 +1901,7 @@
             "discountPercentage": 13.93,
             "rating": 3.26,
             "stock": 88,
-            "tags": [
-                "footwear",
-                "women's shoes"
-            ],
+            "tags": ["footwear", "women's shoes"],
             "brand": "Fashion Diva",
             "sku": "WOM-FAS-GOL-187",
             "weight": 4,
@@ -2144,10 +1961,7 @@
             "discountPercentage": 14.14,
             "rating": 3.05,
             "stock": 49,
-            "tags": [
-                "footwear",
-                "casual shoes"
-            ],
+            "tags": ["footwear", "casual shoes"],
             "brand": "Pampi",
             "sku": "WOM-PAM-PAM-188",
             "weight": 7,
@@ -2207,10 +2021,7 @@
             "discountPercentage": 17.69,
             "rating": 3.25,
             "stock": 7,
-            "tags": [
-                "footwear",
-                "women's shoes"
-            ],
+            "tags": ["footwear", "women's shoes"],
             "brand": "Fashion Express",
             "sku": "WOM-FAS-SHO-189",
             "weight": 10,
@@ -2260,14 +2071,12 @@
                 "https://cdn.dummyjson.com/product-images/womens-shoes/red-shoes/4.webp"
             ],
             "thumbnail": "https://cdn.dummyjson.com/product-images/womens-shoes/red-shoes/thumbnail.webp"
-        }
-    ],
-        "Kids": [
+        },
         {
             "id": "kid-001",
             "title": "Nike Air Max 270 Kids",
             "description": "Comfortable and stylish sneakers for active kids with Max Air cushioning.",
-            "category": "Footwear",
+            "category": "Kids",
             "price": 89.99,
             "stock": 25,
             "images": [
@@ -2280,7 +2089,7 @@
             "id": "kid-002",
             "title": "Adidas Three Stripes Hoodie",
             "description": "Warm and cozy hoodie perfect for playground adventures.",
-            "category": "Clothing",
+            "category": "Kids",
             "price": 54.99,
             "stock": 40,
             "images": [
@@ -2293,7 +2102,7 @@
             "id": "kid-003",
             "title": "LEGO Creator 3-in-1 Deep Sea Creatures",
             "description": "Build a shark, squid, or ray with this creative LEGO set.",
-            "category": "Toys",
+            "category": "Kids",
             "price": 79.99,
             "stock": 15,
             "images": [
@@ -2306,7 +2115,7 @@
             "id": "kid-004",
             "title": "Wilson Youth Baseball Glove",
             "description": "Professional quality baseball glove designed for young players.",
-            "category": "Sports Equipment",
+            "category": "Kids",
             "price": 45.99,
             "stock": 30,
             "images": [
@@ -2319,7 +2128,7 @@
             "id": "kid-005",
             "title": "Disney Frozen Elsa Dress",
             "description": "Magical dress-up costume featuring Elsa's iconic blue gown.",
-            "category": "Costumes",
+            "category": "Kids",
             "price": 39.99,
             "stock": 20,
             "images": [
@@ -2332,7 +2141,7 @@
             "id": "kid-006",
             "title": "Razor A3 Kick Scooter",
             "description": "Lightweight aluminum scooter with adjustable handlebars for growing kids.",
-            "category": "Outdoor Toys",
+            "category": "Kids",
             "price": 49.99,
             "stock": 12,
             "images": [
@@ -2345,7 +2154,7 @@
             "id": "kid-007",
             "title": "JanSport SuperBreak Backpack",
             "description": "Classic school backpack with plenty of room for books and supplies.",
-            "category": "Accessories",
+            "category": "Kids",
             "price": 35.99,
             "stock": 50,
             "images": [
@@ -2358,7 +2167,7 @@
             "id": "kid-008",
             "title": "Crayola 64-Pack Crayons",
             "description": "Complete set of vibrant crayons with built-in sharpener for creative fun.",
-            "category": "Art Supplies",
+            "category": "Kids",
             "price": 12.99,
             "stock": 75,
             "images": [
@@ -2371,7 +2180,7 @@
             "id": "kid-009",
             "title": "Pokemon Trading Card Game Starter Deck",
             "description": "Everything needed to start playing the popular Pokemon card game.",
-            "category": "Games",
+            "category": "Kids",
             "price": 24.99,
             "stock": 35,
             "images": [
@@ -2384,7 +2193,7 @@
             "id": "kid-010",
             "title": "Converse Chuck Taylor All Star High Tops",
             "description": "Iconic canvas sneakers in kid-friendly sizes and colors.",
-            "category": "Footwear",
+            "category": "Kids",
             "price": 49.99,
             "stock": 28,
             "images": [
@@ -2392,9 +2201,7 @@
                 "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=400&fit=crop",
                 "https://images.unsplash.com/photo-1551107696-a4b57fe90ab7?w=400&h=400&fit=crop"
             ]
-        }
-    ],
-    "SportAccessories": [
+        },
         {
             "id": "7444e64b-ce5b-4c3a-a799-437c5b2a674b",
             "title": "American Football",
@@ -2404,10 +2211,7 @@
             "discountPercentage": 4.93,
             "rating": 4.91,
             "stock": 53,
-            "tags": [
-                "sports equipment",
-                "american football"
-            ],
+            "tags": ["sports equipment", "american football"],
             "sku": "SPO-BRD-AME-137",
             "weight": 2,
             "dimensions": {
@@ -2449,9 +2253,7 @@
                 "barcode": "0984311727547",
                 "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
             },
-            "images": [
-                "https://cdn.dummyjson.com/product-images/sports-accessories/american-football/1.webp"
-            ],
+            "images": ["https://cdn.dummyjson.com/product-images/sports-accessories/american-football/1.webp"],
             "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/american-football/thumbnail.webp"
         },
         {
@@ -2463,10 +2265,7 @@
             "discountPercentage": 1.71,
             "rating": 2.57,
             "stock": 100,
-            "tags": [
-                "sports equipment",
-                "baseball"
-            ],
+            "tags": ["sports equipment", "baseball"],
             "sku": "SPO-BRD-BAS-138",
             "weight": 5,
             "dimensions": {
@@ -2508,9 +2307,7 @@
                 "barcode": "8981184448425",
                 "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
             },
-            "images": [
-                "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/1.webp"
-            ],
+            "images": ["https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/1.webp"],
             "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/thumbnail.webp"
         },
         {
@@ -2522,10 +2319,7 @@
             "discountPercentage": 2.9,
             "rating": 3.96,
             "stock": 22,
-            "tags": [
-                "sports equipment",
-                "baseball"
-            ],
+            "tags": ["sports equipment", "baseball"],
             "sku": "SPO-BRD-BAS-139",
             "weight": 1,
             "dimensions": {
@@ -2583,10 +2377,7 @@
             "discountPercentage": 7.44,
             "rating": 4.66,
             "stock": 75,
-            "tags": [
-                "sports equipment",
-                "basketball"
-            ],
+            "tags": ["sports equipment", "basketball"],
             "sku": "SPO-BRD-BAS-140",
             "weight": 7,
             "dimensions": {
@@ -2628,9 +2419,7 @@
                 "barcode": "3219724919696",
                 "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
             },
-            "images": [
-                "https://cdn.dummyjson.com/product-images/sports-accessories/basketball/1.webp"
-            ],
+            "images": ["https://cdn.dummyjson.com/product-images/sports-accessories/basketball/1.webp"],
             "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/basketball/thumbnail.webp"
         },
         {
@@ -2642,10 +2431,7 @@
             "discountPercentage": 7.74,
             "rating": 4.6,
             "stock": 43,
-            "tags": [
-                "sports equipment",
-                "basketball"
-            ],
+            "tags": ["sports equipment", "basketball"],
             "sku": "SPO-BRD-BAS-141",
             "weight": 1,
             "dimensions": {
@@ -2687,9 +2473,7 @@
                 "barcode": "6916173283925",
                 "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
             },
-            "images": [
-                "https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/1.webp"
-            ],
+            "images": ["https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/1.webp"],
             "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/thumbnail.webp"
         },
         {
@@ -2701,10 +2485,7 @@
             "discountPercentage": 8.63,
             "rating": 3.53,
             "stock": 30,
-            "tags": [
-                "sports equipment",
-                "cricket"
-            ],
+            "tags": ["sports equipment", "cricket"],
             "sku": "SPO-BRD-CRI-142",
             "weight": 7,
             "dimensions": {
@@ -2746,9 +2527,7 @@
                 "barcode": "0027512125380",
                 "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
             },
-            "images": [
-                "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-ball/1.webp"
-            ],
+            "images": ["https://cdn.dummyjson.com/product-images/sports-accessories/cricket-ball/1.webp"],
             "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-ball/thumbnail.webp"
         },
         {
@@ -2760,10 +2539,7 @@
             "discountPercentage": 3.29,
             "rating": 3.17,
             "stock": 98,
-            "tags": [
-                "sports equipment",
-                "cricket"
-            ],
+            "tags": ["sports equipment", "cricket"],
             "sku": "SPO-BRD-CRI-143",
             "weight": 10,
             "dimensions": {
@@ -2805,9 +2581,7 @@
                 "barcode": "1225217575490",
                 "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
             },
-            "images": [
-                "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-bat/1.webp"
-            ],
+            "images": ["https://cdn.dummyjson.com/product-images/sports-accessories/cricket-bat/1.webp"],
             "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-bat/thumbnail.webp"
         },
         {
@@ -2819,10 +2593,7 @@
             "discountPercentage": 9.64,
             "rating": 4.69,
             "stock": 10,
-            "tags": [
-                "sports equipment",
-                "cricket"
-            ],
+            "tags": ["sports equipment", "cricket"],
             "sku": "SPO-BRD-CRI-144",
             "weight": 10,
             "dimensions": {
@@ -2881,10 +2652,7 @@
             "discountPercentage": 16.93,
             "rating": 4.73,
             "stock": 25,
-            "tags": [
-                "sports equipment",
-                "cricket"
-            ],
+            "tags": ["sports equipment", "cricket"],
             "sku": "SPO-BRD-CRI-145",
             "weight": 5,
             "dimensions": {
@@ -2926,9 +2694,7 @@
                 "barcode": "9514466946651",
                 "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
             },
-            "images": [
-                "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-wicket/1.webp"
-            ],
+            "images": ["https://cdn.dummyjson.com/product-images/sports-accessories/cricket-wicket/1.webp"],
             "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-wicket/thumbnail.webp"
         },
         {
@@ -2940,10 +2706,7 @@
             "discountPercentage": 2.95,
             "rating": 2.85,
             "stock": 95,
-            "tags": [
-                "sports equipment",
-                "badminton"
-            ],
+            "tags": ["sports equipment", "badminton"],
             "sku": "SPO-BRD-FEA-146",
             "weight": 4,
             "dimensions": {
@@ -2985,9 +2748,7 @@
                 "barcode": "5360325610488",
                 "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
             },
-            "images": [
-                "https://cdn.dummyjson.com/product-images/sports-accessories/feather-shuttlecock/1.webp"
-            ],
+            "images": ["https://cdn.dummyjson.com/product-images/sports-accessories/feather-shuttlecock/1.webp"],
             "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/feather-shuttlecock/thumbnail.webp"
         },
         {
@@ -2999,10 +2760,7 @@
             "discountPercentage": 5.15,
             "rating": 3.28,
             "stock": 96,
-            "tags": [
-                "sports equipment",
-                "football"
-            ],
+            "tags": ["sports equipment", "football"],
             "sku": "SPO-BRD-FOO-147",
             "weight": 1,
             "dimensions": {
@@ -3044,9 +2802,7 @@
                 "barcode": "7605305555987",
                 "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
             },
-            "images": [
-                "https://cdn.dummyjson.com/product-images/sports-accessories/football/1.webp"
-            ],
+            "images": ["https://cdn.dummyjson.com/product-images/sports-accessories/football/1.webp"],
             "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/football/thumbnail.webp"
         },
         {
@@ -3058,10 +2814,7 @@
             "discountPercentage": 17.37,
             "rating": 4.3,
             "stock": 84,
-            "tags": [
-                "sports equipment",
-                "golf"
-            ],
+            "tags": ["sports equipment", "golf"],
             "sku": "SPO-BRD-GOL-148",
             "weight": 3,
             "dimensions": {
@@ -3103,9 +2856,7 @@
                 "barcode": "6940117186155",
                 "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
             },
-            "images": [
-                "https://cdn.dummyjson.com/product-images/sports-accessories/golf-ball/1.webp"
-            ],
+            "images": ["https://cdn.dummyjson.com/product-images/sports-accessories/golf-ball/1.webp"],
             "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/golf-ball/thumbnail.webp"
         },
         {
@@ -3117,10 +2868,7 @@
             "discountPercentage": 6.53,
             "rating": 4.41,
             "stock": 90,
-            "tags": [
-                "sports equipment",
-                "golf"
-            ],
+            "tags": ["sports equipment", "golf"],
             "sku": "SPO-BRD-IRO-149",
             "weight": 2,
             "dimensions": {
@@ -3162,9 +2910,7 @@
                 "barcode": "4196059523236",
                 "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
             },
-            "images": [
-                "https://cdn.dummyjson.com/product-images/sports-accessories/iron-golf/1.webp"
-            ],
+            "images": ["https://cdn.dummyjson.com/product-images/sports-accessories/iron-golf/1.webp"],
             "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/iron-golf/thumbnail.webp"
         },
         {
@@ -3176,10 +2922,7 @@
             "discountPercentage": 19.51,
             "rating": 4.66,
             "stock": 16,
-            "tags": [
-                "sports equipment",
-                "baseball"
-            ],
+            "tags": ["sports equipment", "baseball"],
             "sku": "SPO-BRD-MET-150",
             "weight": 7,
             "dimensions": {
@@ -3221,9 +2964,7 @@
                 "barcode": "7296388268295",
                 "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
             },
-            "images": [
-                "https://cdn.dummyjson.com/product-images/sports-accessories/metal-baseball-bat/1.webp"
-            ],
+            "images": ["https://cdn.dummyjson.com/product-images/sports-accessories/metal-baseball-bat/1.webp"],
             "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/metal-baseball-bat/thumbnail.webp"
         },
         {
@@ -3235,10 +2976,7 @@
             "discountPercentage": 11.76,
             "rating": 4.06,
             "stock": 28,
-            "tags": [
-                "sports equipment",
-                "tennis"
-            ],
+            "tags": ["sports equipment", "tennis"],
             "sku": "SPO-BRD-TEN-151",
             "weight": 3,
             "dimensions": {
@@ -3280,9 +3018,7 @@
                 "barcode": "2793132647969",
                 "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
             },
-            "images": [
-                "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-ball/1.webp"
-            ],
+            "images": ["https://cdn.dummyjson.com/product-images/sports-accessories/tennis-ball/1.webp"],
             "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-ball/thumbnail.webp"
         },
         {
@@ -3294,10 +3030,7 @@
             "discountPercentage": 19.61,
             "rating": 4.03,
             "stock": 6,
-            "tags": [
-                "sports equipment",
-                "tennis"
-            ],
+            "tags": ["sports equipment", "tennis"],
             "sku": "SPO-BRD-TEN-152",
             "weight": 7,
             "dimensions": {
@@ -3339,9 +3072,7 @@
                 "barcode": "5611498376196",
                 "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
             },
-            "images": [
-                "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-racket/1.webp"
-            ],
+            "images": ["https://cdn.dummyjson.com/product-images/sports-accessories/tennis-racket/1.webp"],
             "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-racket/thumbnail.webp"
         },
         {
@@ -3353,10 +3084,7 @@
             "discountPercentage": 12.25,
             "rating": 3.84,
             "stock": 0,
-            "tags": [
-                "sports equipment",
-                "volleyball"
-            ],
+            "tags": ["sports equipment", "volleyball"],
             "sku": "SPO-BRD-VOL-153",
             "weight": 3,
             "dimensions": {
@@ -3398,9 +3126,7 @@
                 "barcode": "6348576170594",
                 "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
             },
-            "images": [
-                "https://cdn.dummyjson.com/product-images/sports-accessories/volleyball/1.webp"
-            ],
+            "images": ["https://cdn.dummyjson.com/product-images/sports-accessories/volleyball/1.webp"],
             "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/volleyball/thumbnail.webp"
         }
     ],
@@ -3517,13 +3243,7 @@
         {
             "id": "436b663a-9713-4c6e-a12e-dab0abd03add",
             "name": "Resources",
-            "items": [
-                "Gift Cards",
-                "Find a Store",
-                "Membership",
-                "Nike Journals",
-                "Site Feedback"
-            ]
+            "items": ["Gift Cards", "Find a Store", "Membership", "Nike Journals", "Site Feedback"]
         },
         {
             "id": "c99424c8-cd99-4663-b91e-02a2d76b5786",
@@ -3542,25 +3262,12 @@
         {
             "id": "514a58d4-b21d-4bd1-bb07-5562f1e028c6",
             "name": "Company",
-            "items": [
-                "About Nike",
-                "News",
-                "Carrees",
-                "Investors",
-                "Purpose",
-                "Sustainability"
-            ]
+            "items": ["About Nike", "News", "Carrees", "Investors", "Purpose", "Sustainability"]
         },
         {
             "id": "05a547a6-0c46-4324-9e99-55814f0aa0ba",
             "name": "Promotion & Discounts",
-            "items": [
-                "Student",
-                "Military",
-                "Teacher",
-                "First Responders & Medical Professionals",
-                "Birthday"
-            ]
+            "items": ["Student", "Military", "Teacher", "First Responders & Medical Professionals", "Birthday"]
         }
     ],
     "Countries": [
