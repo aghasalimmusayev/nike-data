@@ -2101,9 +2101,7 @@
             "category": "Kids",
             "price": 79.99,
             "stock": 15,
-            "images": [
-                "https://i.pinimg.com/736x/66/73/aa/6673aa8e0902c6ae62b891b4182124a1.jpg"
-            ]
+            "images": ["https://i.pinimg.com/736x/66/73/aa/6673aa8e0902c6ae62b891b4182124a1.jpg"]
         },
         {
             "id": "kid-004",
@@ -2112,9 +2110,7 @@
             "category": "Kids",
             "price": 45.99,
             "stock": 30,
-            "images": [
-                "https://i.pinimg.com/474x/5a/8f/8b/5a8f8baa8a60d3a3802334f126a18787.jpg"
-            ]
+            "images": ["https://i.pinimg.com/474x/5a/8f/8b/5a8f8baa8a60d3a3802334f126a18787.jpg"]
         },
         {
             "id": "kid-005",
@@ -2178,9 +2174,7 @@
             "category": "Kids",
             "price": 49.99,
             "stock": 28,
-            "images": [
-                "https://i.ebayimg.com/images/g/h1EAAOSwdK9nvvmN/s-l1200.jpg"
-            ]
+            "images": ["https://i.ebayimg.com/images/g/h1EAAOSwdK9nvvmN/s-l1200.jpg"]
         },
         {
             "id": "7444e64b-ce5b-4c3a-a799-437c5b2a674b",
@@ -3114,42 +3108,58 @@
         {
             "id": "1421d007-f3a9-4844-bf16-91a7cad2120a",
             "name": "Air Jordan1",
-            "image": "https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/b0aecb4c-3e97-4080-a944-dcbd89af7ee7/WMNS+AIR+JORDAN+1+RETRO+HI+OG.png"
+            "images": [
+                "https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/b0aecb4c-3e97-4080-a944-dcbd89af7ee7/WMNS+AIR+JORDAN+1+RETRO+HI+OG.png"
+            ]
         },
         {
             "id": "d9ab5ae6-3083-4ef4-a172-1e39b83047e5",
             "name": "Dunk",
-            "image": "https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/b1bcbca4-e853-4df7-b329-5be3c61ee057/NIKE+DUNK+LOW+RETRO.png"
+            "images": [
+                "https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/b1bcbca4-e853-4df7-b329-5be3c61ee057/NIKE+DUNK+LOW+RETRO.png"
+            ]
         },
         {
             "id": "21a9c0da-ec52-4a56-afc3-70a3e56626a0",
             "name": "Field General",
-            "image": "https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/c535aa42-6c9d-43ad-8ab7-d0b825a49dce/NIKE+FIELD+GENERAL.png"
+            "images": [
+                "https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/c535aa42-6c9d-43ad-8ab7-d0b825a49dce/NIKE+FIELD+GENERAL.png"
+            ]
         },
         {
             "id": "c93fd735-7575-4984-a4b0-15200e1684d7",
             "name": "Air Force 1",
-            "image": "https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/94d89d78-d6b7-47b4-96cc-7fabef2775eb/AIR+FORCE+1+LOW.png"
+            "images": [
+                "https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/94d89d78-d6b7-47b4-96cc-7fabef2775eb/AIR+FORCE+1+LOW.png"
+            ]
         },
         {
             "id": "7ae7df2f-e7b0-47e9-a7a2-2b80c746f359",
             "name": "Air Max",
-            "image": "https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/84fdcee0-c38c-443c-bfef-2c5148438bd9/NIKE+AIR+MAX+PLUS+UTILITY.png"
+            "images": [
+                "https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/84fdcee0-c38c-443c-bfef-2c5148438bd9/NIKE+AIR+MAX+PLUS+UTILITY.png"
+            ]
         },
         {
             "id": "c0610886-9b77-45ff-8ec2-177e8c2e55d1",
             "name": "Vomero",
-            "image": "https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/bf7dee49-3c31-42ab-8f49-fd394d99539f/NIKE+ZOOM+VOMERO+5.png"
+            "images": [
+                "https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/bf7dee49-3c31-42ab-8f49-fd394d99539f/NIKE+ZOOM+VOMERO+5.png"
+            ]
         },
         {
             "id": "7a2f5b76-4a56-40ee-a7b6-da3210869003",
             "name": "Cortez",
-            "image": "https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/6d38b3f5-3365-4770-a178-22de3376304b/NIKE+CORTEZ.png"
+            "images": [
+                "https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/6d38b3f5-3365-4770-a178-22de3376304b/NIKE+CORTEZ.png"
+            ]
         },
         {
             "id": "9405f4a4-5916-4618-9213-ec567cdb81cd",
             "name": "City",
-            "image": "https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/3ea1951b-cf47-4bef-8e96-510ef54b2ec1/NIKE+C1TY.png"
+            "images": [
+                "https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/3ea1951b-cf47-4bef-8e96-510ef54b2ec1/NIKE+C1TY.png"
+            ]
         }
     ],
     "Navigations": [
