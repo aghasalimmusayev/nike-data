@@ -2,7 +2,7 @@
     "Navlinks": [
         {
             "id": "5bc09250-ad08-4130-9488-e4684ba332c1",
-            "name": "New",
+            "name": "Men-Shirts",
             "altCat": [
                 {
                     "title": "New & Featured",
@@ -34,7 +34,7 @@
         },
         {
             "id": "64d719b9-c069-4794-b4a0-8b86e333fb0b",
-            "name": "Men",
+            "name": "Men-Shoes",
             "altCat": [
                 {
                     "title": "New & Featured",
@@ -76,7 +76,7 @@
         },
         {
             "id": "af931648-6db8-4ff8-949c-d5ddf9afdcf5",
-            "name": "Women",
+            "name": "womens-dresses",
             "altCat": [
                 {
                     "title": "New & Featured",
@@ -190,7 +190,7 @@
         },
         {
             "id": "a060a135-d283-4e88-9d8c-41f403f62b9d",
-            "name": "Jordan",
+            "name": "Sunglasses",
             "altCat": [
                 {
                     "title": "New & Featured",
