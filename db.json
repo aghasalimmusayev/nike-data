@@ -2,7 +2,7 @@
     "Navlinks": [
         {
             "id": "5bc09250-ad08-4130-9488-e4684ba332c1",
-            "name": "Men-Shirts",
+            "name": "Men Shirts",
             "altCat": [
                 {
                     "title": "New & Featured",
@@ -34,7 +34,7 @@
         },
         {
             "id": "64d719b9-c069-4794-b4a0-8b86e333fb0b",
-            "name": "Men-Shoes",
+            "name": "Men Shoes",
             "altCat": [
                 {
                     "title": "New & Featured",
@@ -76,7 +76,7 @@
         },
         {
             "id": "af931648-6db8-4ff8-949c-d5ddf9afdcf5",
-            "name": "Womens-dresses",
+            "name": "Womens Dresses",
             "altCat": [
                 {
                     "title": "New & Featured",
@@ -5017,6 +5017,44 @@
             "officialLanguage": "Bulgarian",
             "continent": "Europe",
             "code": "bg"
+        }
+    ],
+    "Users": [
+        {
+            "id": "az1XYldGICM7eZIsmnnTV",
+            "ad": "Agasalim",
+            "soyad": "Musayev",
+            "tel": "994773997811",
+            "email": "aga77ams@gmail.com",
+            "password": "AM103068s",
+            "gender": "male",
+            "created": "Sun Jun 22 2025",
+            "role": "SuperAdmin",
+            "active": true
+        },
+        {
+            "id": "J7gIaLEhEwEybg3yJHqv3",
+            "ad": "Mehdi",
+            "soyad": "Musayev",
+            "telefon": "994515997811",
+            "email": "mehdi2019@gmail.com",
+            "parol": "mehdi2019",
+            "gender": "male",
+            "created": "Thu Jun 26 2025",
+            "role": "user",
+            "active": true
+        },
+        {
+            "id": "es4svD5lc4Nn_b6OYKamc",
+            "ad": "Leyla",
+            "soyad": "Musayeva",
+            "telefon": "994558997811",
+            "email": "leyla2016@gmail.com",
+            "parol": "leyla2016",
+            "gender": "female",
+            "created": "Thu Jun 26 2025",
+            "role": "user",
+            "active": true
         }
     ]
 }
